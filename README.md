@@ -1,5 +1,7 @@
 # docker-compose-example
 
+[![open repo in gitpod](https://img.shields.io/badge/Gitpod-Use%20Online%20IDE-B16C04?logo=gitpod)](https://gitpod.io/#https://github.com/shenxianpeng/docker-compose-example)
+
 ## commands
 
 `docker-compose up`
